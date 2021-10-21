@@ -6,3 +6,6 @@
 <p>Create terlebih dahulu user, setelah itu login, kemudian gunakan token untuk akses api produk</p>
 <p>Authentikasi hanya menggunakan token biasa tanpa bearer</p>
 <p>File Foto diupload datam bentuk base64</p>
+
+<p>Link Postman</p>
+https://www.getpostman.com/collections/1a3edcb4169c1dc83ff2
